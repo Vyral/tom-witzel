@@ -1,10 +1,12 @@
 audit_header: false
 title: Denver Metro Real Estate Video Blog with Tom Witzel
 description: Our mission at RE/MAX Alliance is to be your best resource for Denver real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from Tom Witzel, your professional Denver Real Estate Agents.
-show_custom_links: false
+show_custom_links: true
 custom_links:
-  - title:
-    url:
+  - title: New Home Builders
+    url: http://www.tomwitzel.com/new-home-construction
+  - title: Marketing Package
+    url: http://www.tomwitzel.com/best-real-estate-marketing
 
 client:
   name: Tom Witzel
