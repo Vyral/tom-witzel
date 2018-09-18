@@ -26,24 +26,16 @@ client:
   url: http://www.tomwitzel.com
 
 CTAs:
-  first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
-  second_CTA_text: Home Search
-  second_CTA_URL: http://www.tomwitzel.com/property-search-map-on-active/type-single%20family;condo;townhouse/dsort-p/lat-39.460761-40.309868/lon-_105.997933-_102.116459
+  first_CTA_text: Home Search
+  first_CTA_URL: http://www.tomwitzel.com/property-search-map-on-active/type-single%20family;condo;townhouse/dsort-p/lat-39.460761-40.309868/lon-_105.997933-_102.116459
 
 sidebar_CTA:
-  - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+  - CTA_image_path: /img/cta-images/005.jpg
+    CTA_title: "Looking for a -- MARKET -- Home?"
+    CTA_text: "Search the entire MLS for your -- MARKET -- home."
+    CTA_link_text: "Search the MLS"
+    CTA_url: http://www.tomwitzel.com/property-search-map-on-active/type-single%20family;condo;townhouse/dsort-p/lat-39.460761-40.309868/lon-_105.997933-_102.116459
 
-second_sidebar_CTA:
-  - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-    CTA_link_text2: "Search the MLS"
-    CTA_url2: http://www.tomwitzel.com/property-search-map-on-active/type-single%20family;condo;townhouse/dsort-p/lat-39.460761-40.309868/lon-_105.997933-_102.116459
 
 lender:
   show_section: false
