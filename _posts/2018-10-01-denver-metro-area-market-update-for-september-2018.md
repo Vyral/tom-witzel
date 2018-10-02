@@ -22,7 +22,7 @@ youtube_code: OXHG6fB6cb4
 
 Here in the Denver Metro area, we’re still in a seller’s market, although there has been downward pressure on home prices.
 
-I’ve found that about **25% of sellers have been lowering their asking prices** due to a couple of factors: the shortage of inventory, as well as the upward pressure on interest rates.
+I’ve found that about **25% of sellers have been lowering their asking prices** due to a couple of factors: The shortage of inventory, as well as the upward pressure on interest rates.
 
 {% include pullquote.html %}
 
