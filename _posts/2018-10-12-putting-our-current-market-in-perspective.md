@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Putting Our Current Market in Perspective
-date:
+date: 2018-10-12 15:27:27
 tags:
+  - Market Update
+  - Real Estate
 excerpt: >-
   Dennis Marshall from Commerce Home Mortgage and I sat down for a conversation
   about the current market and what is actually going on with interest rates.
@@ -40,6 +42,6 @@ The mortgage application volume did increase over the last two weeks, and that�
 
 If you are thinking of buying a home in this market, **the No. 1 thing to do is reach out to a professional to get a good feel for what’s actually going on in the marketplace.** What you hear on the news misrepresents how drastic the situation actually is. It’s still a great time to buy a home, especially now that there is more than double the inventory in our current market over what we saw last year.
 
-If you’d like to speak with Dennis at Commerce Home Mortgage, he can be reached at (303)-531-7777 or DMarshall@CommerceMTG.com.&nbsp;
+If you’d like to speak with Dennis at Commerce Home Mortgage, he can be reached at (303)-531-7777 or DMarshall@CommerceMTG.com. 
 
 For any questions you have about North Metro Denver real estate, you are always encouraged to reach out to us. Feel free to forward this information to anyone you think could benefit from it.
