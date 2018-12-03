@@ -24,7 +24,7 @@ youtube_code: ub-JxvEAFy8
 
 Most people have heard of title insurance, but not everyone knows exactly what it is.&nbsp;
 
-Essentially, title insurance policies protect the policyholder against potential disputes of ownership. While other types of insurance, the policyholder pays someone else to hold liability for potential risk. With title insurance, the risk is eliminated from the beginning. **Title insurance guarantees ownership and that are no outstanding discrepancies that could arise.&nbsp;**
+Essentially, title insurance policies protect the policyholder against potential disputes of ownership. Other types of insurance require the policyholder to pay someone else to hold liability for potential risk; but with title insurance, the risk is eliminated from the beginning.&nbsp;**Title insurance guarantees ownership and that no outstanding discrepancies will arise.&nbsp;**
 
 {% include pullquote.html %}
 
