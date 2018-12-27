@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Interviewing Chris Presley, Owner of Epic Homes'
-date: 2018-12-27 20:14:39
+date: 2018-12-27 20:14:00
 tags:
 excerpt: >-
   Chris Presley, the owner of Epic Homes, told us about her burgeoning home
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: t8GQP3gqxM
+youtube_code: Pt8GQP3gqxM
 ---
 
 {% include youtube.html %}
