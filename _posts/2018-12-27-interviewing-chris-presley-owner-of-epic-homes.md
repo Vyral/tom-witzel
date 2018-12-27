@@ -18,7 +18,7 @@ youtube_code: t8GQP3gqxM
 
 {% include youtube.html %}
 
-oday I’m joined by **Chris Presley, the owner of Epic Homes**. She took some time out of her day to tell us about her storied career and the path that led her to create her own home building business.
+Today I’m joined by **Chris Presley, the owner of Epic Homes**. She took some time out of her day to tell us about her storied career and the path that led her to create her own home building business.
 
 **She immediately knew home building was her passion when she began working as an accounts payable clerk for a home builder in Colorado Springs.** After working for another builder in Florida, she was able to move back to Colorado in 2005 and has been here ever since.
 
