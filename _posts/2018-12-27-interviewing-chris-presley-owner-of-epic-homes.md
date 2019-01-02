@@ -30,6 +30,6 @@ Epic Homes’ flagship community is Anthem Highlands, which was started around a
 
 Though she’s already found great success with Anthem Highlands, **a home builder’s sigh****ts are always on the future,** and Chris has two new projects she’s looking forward to beginning. The one she shared with us is located in Aurora and will be called Painted Prairie. This community will be the center for entry-level homes that range from 1,150 square feet to over 2,700 square feet.&nbsp;
 
-I’d like to thank Chris for giving us an inside look at her life as a home building business owner. If you’d like to reach her at Epic Homes, call **303-798-3742**, email **discover@liveepichomes.com**, or visit their website at [www.LiveEpicHomes.com](www.LiveEpicHomes.com).
+I’d like to thank Chris for giving us an inside look at her life as a home building business owner. If you’d like to reach her at Epic Homes, call **303-798-3742**, email **discover@liveepichomes.com**, or visit their website at [https://liveepichomes.com/](https://liveepichomes.com/){: target="_blank"}.
 
 And, as always, if have you have any questions or need more information about real estate, feel free to contact me. I look forward to hearing from you.
