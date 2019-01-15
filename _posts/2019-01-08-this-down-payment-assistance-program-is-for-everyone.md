@@ -1,7 +1,7 @@
 ---
 layout: post
-title: This Down Payment Assistance Program is for Everyone
-date: 2019-01-08 19:44:12
+title: This Down Payment Assistance Program Is for Everyone
+date: 2019-01-08 19:44:00
 tags:
   - Real Estate
 excerpt: >-
@@ -22,7 +22,7 @@ youtube_code: yx9Jgoh2dWc
 
 {% include youtube.html %}
 
-Financing is a critical aspect of the real estate process, and today I’d like to share some insight on one program in particular: the Colorado Housing and Finance Authority’s down payment assistance program (or CHFA).&nbsp;
+Financing is a critical aspect of the home buying process, and today I’d like to share some insight on one program in particular: the Colorado Housing and Finance Authority’s down payment assistance program (or CHFA).&nbsp;
 
 To better explain this program, I recently sat down for a discussion with local mortgage professional Margaret Skrbina of MegaStar Financial—which you can follow along with in the video above.&nbsp;
 
