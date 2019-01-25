@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Speaking With the Head Professional of Buffalo Run Golf Course
-date:
+date: 2019-01-25 18:44:28
 tags:
   - Real Estate
 excerpt: >-
