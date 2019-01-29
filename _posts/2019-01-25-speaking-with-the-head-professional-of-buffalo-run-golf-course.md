@@ -19,7 +19,7 @@ youtube_code: '-QlSXGoKp6M'
 
 {% include youtube.html %}
 
-I’m joined today by Garrett Hoffman, the head professional at [Buffalo Run Golf Course](https://www.buffalorungolfcourse.com/){: target="_blank"} in Commerce City. He talked with me about the course’s almost 23-year history and the many programs they feature at Buffalo Run.
+I recently spoke with Garrett Hoffman, the head professional at [Buffalo Run Golf Course](https://www.buffalorungolfcourse.com/){: target="_blank"} in Commerce City, about the course’s history and the many programs they feature. I'm excited to share the full recording of this conversation with all of you today.
 
 **For your convenience, I’ve included timestamps for each topic of our discussion. Feel free to navigate to the section(s) you’re most interested in viewing:**
 
