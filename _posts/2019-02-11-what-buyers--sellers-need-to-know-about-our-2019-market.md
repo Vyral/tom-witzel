@@ -29,7 +29,7 @@ I’ve heard a lot of different opinions about where our market is headed in 201
 
 If you’re selling your home in 2019, you need to know that in any market, **there are three factors that matter most to buyers: price, condition, and location.**&nbsp;
 
-Price is perhaps the most important factor in determining whether your home sells or not. If you price it too high, you’ll probably end up getting less for it than if you would’ve priced it correctly in the beginning. If your home sits unsold for many days on the market, agents will notice that, and they’ll wonder what could be wrong with it.&nbsp;
+Price is perhaps the most important factor in determining whether your home sells or not. If you price it too high, you’ll probably end up getting less for it than if you would’ve priced it correctly in the beginning. If your home sits unsold for many days on the market, buyers will notice that, and they’ll wonder what could be wrong with it.&nbsp;
 
 {% include pullquote.html %}
 
@@ -42,7 +42,7 @@ When it comes to condition, many homeowners don’t put enough thought into prep
 * Cleaning the carpet or having new carpet installed
 * Cleaning and servicing the furnace, air conditioner, and hot water heater
 
-If you think your home needs remodeling, give me a call. I’d love to take a look at what rooms you’re thinking of, hear your ideas, and offer my advice as to whether it’s a good value or not. Kitchens and bathroom are the two areas with the highest rate of return in terms of remodeling.&nbsp;
+If you think your home needs remodeling, give me a call. I’d love to take a look at what rooms you’re thinking of, hear your ideas, and offer my advice as to whether it’s a good value or not. Kitchens and bathrooms are the two areas with the highest rate of return in terms of remodeling.&nbsp;
 
 If your home is on the market during wintertime and there’s snow on the ground, another simple improvement you can make is to simply clear your sidewalks and driveway. During springtime, you need to make sure your front yard looks good. Adding fresh flowers by the front steps is always a nice touch.&nbsp;
 
