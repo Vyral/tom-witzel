@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Work With a Realtor Over an Online Service?
-date: 2019-03-26 16:05:45
+date: 2019-03-26 16:05:00
 tags:
 excerpt: >-
   Realtors are still superior to online, “hassle-free” services when it comes to
@@ -16,14 +16,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: veN5H7_DDs
+youtube_code: lveN5H7_DDs
 ---
 
 {% include youtube.html %}
 
 There’s a lot of buzz in the media these days about how technology can solve all our problems, cost less, and bring us a better outcome. While technology can certainly help us save time, make decisions, and even allow us to bring you messages like this very blog post, it cannot by itself bring us salvation.
 
-For example, certain professionals like attorneys, accountants, financial advisors, Realtors, lenders, and similar owe their clients a fiduciary duty, meaning that their advice and actions should prove that they have their clients’ best interests at heart.&nbsp;
+For example, certain professionals like attorneys, accountants, financial advisors, Realtors, lenders, and similar owe their clients a fiduciary duty, meaning that their advice and actions should prove that they have their clients’ best interests at heart. 
 
 I’m certain that most of us have had both good and bad experiences with all of these professions. **As a Realtor, I have fiduciary duties to my clients; brokers must exercise reasonable skill and care for sellers and buyers, including, but not limited to, the following:**
 
