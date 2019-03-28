@@ -23,11 +23,11 @@ youtube_code: lveN5H7_DDs
 
 There’s a lot of buzz in the media these days about how technology can solve all our problems, cost less, and bring us a better outcome. While technology can certainly help us save time, make decisions, and even allow us to bring you messages like this very blog post, it cannot by itself bring us salvation.
 
-For example, certain professionals like attorneys, accountants, financial advisors, Realtors, lenders, and similar owe their clients a fiduciary duty, meaning that their advice and actions should prove that they have their clients’ best interests at heart. 
+For example, certain professionals like attorneys, accountants, financial advisors, Realtors, lenders, and similar owe their clients a fiduciary duty, meaning that their advice and actions should prove that they have their clients’ best interests at heart.&nbsp;
 
 I’m certain that most of us have had both good and bad experiences with all of these professions. **As a Realtor, I have fiduciary duties to my clients; brokers must exercise reasonable skill and care for sellers and buyers, including, but not limited to, the following:**
 
-* Performing the terms of any written or oral agreement with the seller or buye
+* Performing the terms of any written or oral agreement with the seller or buyer
 * Presenting all offers to and from a seller or buyer in a timely manner, regardless of whether the property is subject to a contract for sale
 * Disclosing to sellers and buyers any adverse material facts that I’m aware of
 * Advising sellers and buyers regarding the transaction, as well as advising them to obtain expert advice regarding material matters about which the broker knows but isn’t specifically trained to handle
@@ -35,7 +35,7 @@ I’m certain that most of us have had both good and bad experiences with all of
 * Keeping the buyer and seller fully informed of the details of the transaction
 * Promoting the interests of the buyer or seller with the utmost good faith, loyalty, and fidelity
 * Seeking a price and terms that are set forth in the contract
-* Counseling the buyer or seller to any material benefits or risks of a transaction that I’m aware of.
+* Counseling the buyer or seller to any material benefits or risks of a transaction that I’m aware of
 
 **Additionally, I must not disclose the following information without the informed consent of the buyer or seller:**
 
@@ -48,7 +48,7 @@ I’m certain that most of us have had both good and bad experiences with all of
 
 These duties are taken directly from the contracts that Realtors are required to use that have been prepared by the Colorado Real Estate Commission and their attorneys.
 
-I bring this up today in order because I’m sure that you have received, as I have, letters from companies that claim to take the hassle out of selling or buying a home. Doubtless, you have also heard that Zillow will buy and finance your next home purchase hassle-free.
+I bring this up today because I’m sure that you have received, as I have, letters from companies that claim to take the hassle out of selling or buying a home. Doubtless, you have also heard that Zillow will buy and finance your next home purchase hassle-free.
 
 {% include pullquote.html %}
 
