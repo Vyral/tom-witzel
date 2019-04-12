@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Ways to Batten Down the Hatches Before a Storm Strikes
-date: 2019-04-11 18:10:42
+date: 2019-04-11 18:10:00
 tags:
   - Real Estate
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: O3THKYi-INE
+youtube_code: T0Ys7_4fzQ0
 ---
 
 {% include youtube.html %}
@@ -27,7 +27,7 @@ Today I want to spend a little time discussing how to prepare your home for the 
 2. **Double check that your siding is secured.** Additionally, make sure that your doors and windows are properly caulked/sealed against the elements.
 3. **Have a professional assess your roof.** We have been known to get some horrendous winds, which can damage the exterior of your property—especially your roof. A professional can check to see if your roof is missing any shingles or is otherwise unworthy to withstand a storm.
 4. **Properly secure loose patio furniture.** If you have a barbecue grill or other furniture on a patio or deck, be sure that those items are secured or put away before a storm strikes.
-5. **Ensure that your garage door and remote are in working order.** When the blizzard hit, the wind was so strong that my garage door wouldn’t go up again!
+5. **Ensure that your garage door and remote are in working order.** When the blizzard hit, the wind was so strong that my garage door wouldn’t go up again\!
 
 {% include pullquote.html %}
 
