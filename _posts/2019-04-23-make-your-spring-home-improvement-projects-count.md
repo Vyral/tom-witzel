@@ -18,7 +18,7 @@ youtube_code: LJZsZMESPaA
 
 {% include youtube.html %}
 
-When spring rolls around each year, we all get the urge to tackle some home improvement projects. Many homeowners are under the impression that for every dollar they spend on their home, they’ll get that dollar back when they go to sell, and this popular, yet faulty, belief is further aided by shows you’ll see on HGTV. &nbsp;
+When spring rolls around each year, we all get the urge to tackle some home improvement projects. Many homeowners are under the impression that for every dollar they spend on their home, they’ll get that dollar back when they go to sell, and this popular belief is further aided by shows you’ll see on HGTV. &nbsp;
 
 Unfortunately, this isn’t the case.&nbsp;
 
