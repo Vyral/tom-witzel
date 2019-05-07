@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Can You Expect From Our Real Estate Market?
-date: 2019-05-07 17:26:09
+date: 2019-05-07 17:26:00
 tags:
 excerpt: Is our market headed for a downturn? Here’s my answer.
 enclosure: >-
