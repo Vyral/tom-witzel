@@ -16,9 +16,9 @@ youtube_code: MO6JjoEPiMo
 
 {% include youtube.html %}
 
-I was at my chiropractor's office the other day and he was asking me about the market, which got me thinking that I haven’t had a market update for you all in a while. Today’s I’d like to bring you the latest news.
+I was at my chiropractor's office the other day when he asked me about the market, which reminded me that I haven’t sent out a market update in a while. Today I’d like to bring you the latest news regarding stats and trends in our local real estate market.
 
-He mentioned to me that houses were starting to take longer to sell and wanted to know if we were in a market downturn. **My response to him, and to you, is that no we are not.** We are seeing an increase in inventory, which is a very welcome sight after years of an extremely limited supply of homes that created bidding frenzies. Things were getting a little out of whack with all the multiple-offer situations and the offers that were way above list price.
+He mentioned to me that houses were starting to take longer to sell and wanted to know if we were in a market downturn. **My answer to this was, "No, we are not."&nbsp;**We are seeing an increase in inventory, which is a very welcome sight after years of an extremely limited supply of homes that created bidding frenzies. Things were getting a little out of whack with all the multiple-offer situations and the offers that were way above list price.
 
 {% include pullquote.html %}
 
