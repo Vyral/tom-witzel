@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Do You Know About FIRPTA?
-date: 2019-06-03 00:00:00
+date: 2019-06-03 07:00:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
