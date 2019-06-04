@@ -27,7 +27,7 @@ This is important because it’s an IRS tax code and it makes the buyer ultimate
 
 {% include pullquote.html %}
 
-The tax rate on this witholiding can be substantial, **up to 10% to 15% depending on the sale price.** The IRS views the buyer in this case as the withholding agent, however, in all practicality, the title companies withhold the proper amount, remit that to the IRS, and they have 20 days in which to do so.&nbsp;
+The tax rate on this withholding can be substantial, **up to 10% to 15% depending on the sale price.** The IRS views the buyer in this case as the withholding agent, however, in all practicality, the title companies withhold the proper amount, remit that to the IRS, and they have 20 days in which to do so.&nbsp;
 
 This is all in the 2019 Colorado real estate contract, so if you’re thinking of buying or selling a home and you have questions, it’s imperative to reach out to a Realtor and title company who are experienced in these matters.
 
