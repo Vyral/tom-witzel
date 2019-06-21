@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Where Are Interest Rates Headed?
-date: 2019-06-21 14:55:47
+date: 2019-06-21 14:55:00
 tags:
   - Market Update
   - Real Estate
