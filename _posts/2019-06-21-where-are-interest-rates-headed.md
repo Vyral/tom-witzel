@@ -40,6 +40,6 @@ The entire lending process through Home Mortgage Alliance is very convenient, as
 
 “It’s really important to me that the process is smooth and seamless,” says Zephra. She and her entire team at Home Mortgage Alliance are extremely committed to providing top-notch customer service. When you work with Home Mortgage Alliance, you can rest assured that your lending needs are in good hands.&nbsp;
 
-**If you’d like to learn more about Home Mortgage Alliance, you can visit their website https://homemortgagealliance.com/ or give Zephra a call at (303) 817-1885.&nbsp;**
+**If you’d like to learn more about Home Mortgage Alliance, you can visit their website [https://homemortgagealliance.com/](https://homemortgagealliance.com/) or give Zephra a call at (303) 817-1885.&nbsp;**
 
 As always, if you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.<br>&nbsp;
