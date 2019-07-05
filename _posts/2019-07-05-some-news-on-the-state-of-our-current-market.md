@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Some News on the State of Our Current Market
-date: 2019-07-05 17:06:48
+date: 2019-07-05 05:06:00
 tags:
   - Market Update
 excerpt: What’s happening in our Denver metro area market? Let’s discuss.
