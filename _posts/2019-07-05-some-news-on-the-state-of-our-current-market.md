@@ -8,8 +8,8 @@ excerpt: What’s happening in our Denver metro area market? Let’s discuss.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Tom+Witzel/Metro+Denver+Real+Estate-+Some+News+on+the+State+of+Our+Current+Market.mp4
 pullquote: >-
-  By all accounts, the Fed plans to lower rates even further by sometime in July
-  of this year.
+  By all accounts, the Fed plans to lower rates even further in July of this
+  year.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -27,7 +27,7 @@ Now, this doesn’t mean the bottom will fall out of the market. **I simply see 
 
 {% include pullquote.html %}
 
-**Interest rates are down by about 0.5% from where they were early in 2019**, and by all accounts, the Fed plans to lower rates even further by sometime in July of this year. Just last week, I closed on a home for one of my buyers, and we were able to secure a 3.625% rate for them on a conventional loan with 20% down. Suffice it to say that rates are falling, and in some cases, they’re in the sub-4% range. &nbsp; &nbsp;
+**Interest rates are down by about 0.5% from where they were early in 2019**, and by all accounts, the Fed plans to lower rates even further in July of this year. Just last week, I closed on a home for one of my buyers, and we were able to secure a 3.625% rate for them on a conventional loan with 20% down. Suffice it to say that rates are falling, and in some cases, they’re in the sub-4% range. &nbsp; &nbsp;
 
 Given current conditions, **is it a good time for you to buy or sell?**
 
