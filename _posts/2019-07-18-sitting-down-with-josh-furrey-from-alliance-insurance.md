@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sitting Down With Josh Furrey From Alliance Insurance
-date: 2019-07-18 18:44:05
+date: 2019-07-18 06:44:00
 tags:
   - Real Estate
 excerpt: >-
