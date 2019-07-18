@@ -33,7 +33,7 @@ Today I’m sitting down with Josh Furrey from Alliance Insurance for an illumin
 
 **A.** Every year since 2009, we’ve had a horrific hail storm tear through our area, not to mention the tornado that hit Windsor. Right now, the insurance industry is about a year behind and scrambling to determine how they’re going to improve profitability for next year. When you see news coverage of a hailstorm, you can bet your bottom dollar that rates will subsequently go up. If we could have just one year where we aren’t hit with hail, rates would start to flatten out, I think. &nbsp;&nbsp;
 
-**Q. When it comes to shopping for homeowners insurance, what is a CLUE report and what will it tell us? &nbsp;&nbsp;**
+***Q. When it comes to shopping for homeowners insurance, what is a CLUE report and what will it tell us? &nbsp;&nbsp;***
 
 **A.** The acronym “CLUE” stands for a Comprehensive Loss Underwriting Exchange. Its purpose is to pull losses on a property you’re interested in, and it will also pull losses on you individually. The combination of which will be factored into the amount of premium you’ll pay. My best advice is to know what you’re looking at up front as a homebuyer so you won’t end up with a mess on your hands. &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
 
