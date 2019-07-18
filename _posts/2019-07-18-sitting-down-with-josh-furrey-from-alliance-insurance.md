@@ -5,8 +5,8 @@ date: 2019-07-18 06:44:00
 tags:
   - Real Estate
 excerpt: >-
-  Josh Furry from Alliance Insurance is here today to answer some questions that
-  may interest you as a homeowner.
+  Josh Furrey from Alliance Insurance is here today to answer some questions
+  that may interest you as a homeowner.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Tom+Witzel/Metro+Denver+Real+Estate-+Sitting+Down+With+Josh+Furrey+From+Alliance+Insurance.mp4
 pullquote:
