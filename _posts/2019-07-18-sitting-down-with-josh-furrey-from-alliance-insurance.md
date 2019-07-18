@@ -23,7 +23,7 @@ Today I’m sitting down with Josh Furrey from Alliance Insurance for an illumin
 
 ***Q. Alliance Insurance is an independent agency. What does that mean exactly?***&nbsp;
 
-**A.** Being independent, we’re able to choose what insurance companies we do business with. As of now, we have about 10 preferred carriers, including some of the larger, more renowned companies like Chubb and Private Client. We also have carriers for policyholders who’ve had too many claims and don’t qualify as “preferred.” Another bonus of being independent is that we can shop rates every term to give our clients the most affordable option.&nbsp;
+* Being independent, we’re able to choose what insurance companies we do business with. As of now, we have about 10 preferred carriers, including some of the larger, more renowned companies like Chubb and Private Client. We also have carriers for policyholders who’ve had too many claims and don’t qualify as “preferred.” Another bonus of being independent is that we can shop rates every term to give our clients the most affordable option.&nbsp;
 
 ***Q. Aside from auto and homeowners insurance, what lines of insurance do you carry?***
 
