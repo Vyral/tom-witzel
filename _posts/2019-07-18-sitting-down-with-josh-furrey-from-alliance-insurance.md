@@ -27,11 +27,11 @@ Today I’m sitting down with Josh Furrey from Alliance Insurance for an illumin
 
 ***Q. Aside from auto and homeowners insurance, what lines of insurance do you carry?***
 
-* We do personal umbrella insurance and a small variety of business insurance—specifically for preferred clientele. Essentially, we offer all forms of insurance under the sun with the exception of health insurance.&nbsp;
+* We do personal umbrella insurance and a small variety of business insurance—specifically for preferred clientele. Essentially, we offer all forms of insurance under the sun except health insurance.&nbsp;
 
 ***Q. Clients often ask, “Tom, why are insurance rates rising?” I’m less-than-qualified to answer that, so why are they rising?&nbsp;***
 
-* Every year since 2009, we’ve had a horrific hail storm tear through our area, not to mention the tornado that hit Windsor. Right now, the insurance industry is about a year behind and scrambling to determine how they’re going to improve profitability for next year. When you see news coverage of a hailstorm, you can bet your bottom dollar that rates will subsequently go up. If we could have just one year where we aren’t hit with hail, rates would start to flatten out, I think. &nbsp;&nbsp;
+* Every year since 2009, we’ve had a horrific hailstorm tear through our area, not to mention the tornado that hit Windsor. Right now, the insurance industry is about a year behind and scrambling to determine how they’re going to improve profitability for next year. When you see news coverage of a hailstorm, you can bet your bottom dollar that rates will subsequently go up. If we could have just one year where we aren’t hit with hail, rates would start to flatten out, I think. &nbsp;&nbsp;
 
 ***Q. When it comes to shopping for homeowners insurance, what is a CLUE report and what will it tell us? &nbsp;&nbsp;***
 
